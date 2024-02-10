@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  ![giphy](https://github.com/sjamillah/sjamillah/assets/127307233/1ac8da28-7b91-4413-b1e2-bce3329de00d)
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd6Y28wanRiamo2cnF0Zmp4ZDZ2OXZlc2Z0Nm53Y21heDZxZ3k3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
+
 <h1 align="center">Hello there 👋</h1>
 <p>Welcome to my GitHub profile! I'm <strong>SSOZI Jamillah</strong>. A passionate Software Engineer, navigating the vast areas of code and creativity. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology.</p>
 
