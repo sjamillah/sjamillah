@@ -1,11 +1,14 @@
+<div id="header" align="center">
+  ![giphy](https://github.com/sjamillah/sjamillah/assets/127307233/1ac8da28-7b91-4413-b1e2-bce3329de00d)
+</div>
 <h1 align="center">Hello there 👋</h1>
 <p>Welcome to my GitHub profile! I'm <strong>SSOZI Jamillah</strong>. A passionate Software Engineer, navigating the vast areas of code and creativity. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology.</p>
 
 <h2>Let's have a chat</h2>
 <a href="https://www.linkedin.com/in/jamillah-ssozi-08b4871a1/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45" align="center"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" align="center"/></a>
 <a href="https://twitter.com/Jammy1442">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="twitter" width="45" height="45" align="center"/></a>
+  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" align="center"/></a>
 
 <h3>Know more About Me</h3>
 <p>
