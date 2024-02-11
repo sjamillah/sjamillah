@@ -14,7 +14,8 @@
 <h3>Know more About Me</h3>
 <p>
 <ul>
-<li>🎓 Currently studying at the African Leadership University![alu logo](https://github.com/sjamillah/sjamillah/assets/127307233/6a3ac25d-6ed4-4089-8d38-c44926b57cae)
+<li>🎓 Currently studying at the <a href="https://www.alueducation.com/">
+  <img src="https://theme.zdassets.com/theme_assets/803703/3fcb645f05d526974b259e113222507948dd4326.png" alt="alulogo" width="100" align="center"/></a>
 </li>
 <li>🌟 Infinitely curious and always hungry for new challenges</li>
 <li>🔍 <strong>Fun Fact:</strong> I have a knack for choosing the perfect color schemes for my projects. I once spent an entire afternoon finding the ideal shade of blue for a button, only to discover it was called "Electric Indigo" in the CSS color palette. It's all about bringing a touch of artistry to the world of code! 🎨💻</li>
