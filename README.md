@@ -33,3 +33,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>    
 </p>
+
+![Bienaimee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjamillah&show_icons=true&theme=radical)
