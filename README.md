@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">Hello there 👋</h1>
-<p>Welcome to my GitHub profile! I'm <strong>SSOZI Jamillah</strong>. A passionate Software Engineer, navigating the vast areas of code and creativity. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology.</p>
+
+<p>Welcome to my GitHub profile! I'm <strong>Jamillah Ssozi</strong>, a Software Engineering student at African Leadership University in Kigali, Rwanda. I'm passionate about creating intelligent digital experiences that bridge design, development, and data to build meaningful tech solutions.</p>
 
 <h2>Let's have a chat</h2>
 <a href="https://www.linkedin.com/in/jamillah-ssozi-08b4871a1/">
@@ -11,30 +12,35 @@
 <a href="https://twitter.com/Jammy1442">
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" align="center"/></a>
 
-<h3>Know more About Me</h3>
+<h2>Know more About Me</h2>
 <p>
 <ul>
-<li>🎓 Currently studying at the <a href="https://www.alueducation.com/">
+<li>🎓 Currently pursuing my Bachelor's in Software Engineering at <a href="https://www.alueducation.com/">
   <img src="https://theme.zdassets.com/theme_assets/803703/3fcb645f05d526974b259e113222507948dd4326.png" alt="alulogo" width="100" align="center"/></a>
 </li>
-<li>🌟 Infinitely curious and always hungry for new challenges</li>
-<li>🔍 <strong>Fun Fact:</strong> I have a knack for choosing the perfect color schemes for my projects. I once spent an entire afternoon finding the ideal shade of blue for a button, only to discover it was called "Electric Indigo" in the CSS color palette. It's all about bringing a touch of artistry to the world of code! 🎨💻</li>
+<li>🧠 Machine learning enthusiast with hands-on experience in TensorFlow, model training, and deployment pipelines</li>
+<li>🎨 UI/UX designer who loves creating user-centered interfaces with Figma and building responsive web experiences</li>
+<li>🏊‍♀️ When I'm not coding, you'll find me swimming, painting, or writing about tech and data storytelling</li>
+<li>🔍 <strong>Fun Fact:</strong> I once spent an entire afternoon perfecting the shade of "Electric Indigo" for a medical app interface, because in healthcare tech, even the smallest design details can impact user trust and accessibility!</li>
 </ul>
 </p>
 
-<h3>Languages and Tools I'm learning:</h3>
+<h2>Languages and Tools I work with:</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
 </p>
 
-![Bienaimee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjamillah&show_icons=true&theme=radical)
+![Jamillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjamillah&show_icons=true&theme=radical)
